@@ -1,0 +1,6 @@
+# Project production files
+build/*
+dist/*
+
+# Dependencies Node
+node_modules
